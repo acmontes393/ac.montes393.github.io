@@ -3,13 +3,17 @@ Email: ana.montes@uni.lu
 https://www.linkedin.com/in/ana-cecilia-montes/
 
 EDUCATION
-2017 – Oct 2021	PhD. Economics and Finance, University of Luxembourg, Luxembourg
+
+PhD. Economics and Finance, University of Luxembourg, Luxembourg 2017 – Oct 2021	
 Thesis title: “Essay on the Economics of International Migration”
 Supervisor: Michel Beine
-2014 – 2016	M.A. Public Policy, Hertie School of Governance, Berlin, Germany.
+
+M.A. Public Policy, Hertie School of Governance, Berlin, Germany. 2014 – 2016	
 Thesis title: “Who you know matters to get a good career. Social capital and labor market outcomes among recent migrants in Germany”
-2010 – 2014	MSc. Economics, Universidad de los Andes, Bogotá, Colombia.
-2006– 2010	B.A. Economics, Universidad de los Andes, Bogotá, Colombia.
+
+MSc. Economics, Universidad de los Andes, Bogotá, Colombia. 2010 – 2014
+
+B.A. Economics, Universidad de los Andes, Bogotá, Colombia. 2006– 2010
 
 FIELDS OF INTEREST
 
