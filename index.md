@@ -1,7 +1,7 @@
-## Ana Montes-Viñas
+# Ana Montes-Viñas
 Email: ana.montes@uni.lu
 
-# EDUCATION
+### EDUCATION
 
 - PhD. Economics and Finance, University of Luxembourg, Luxembourg 2017 – Oct 2021	
 
@@ -17,11 +17,11 @@ Thesis title: “Who you know matters to get a good career. Social capital and l
 
 - B.A. Economics, Universidad de los Andes, Bogotá, Colombia. 2006– 2010
 
-# FIELDS OF INTEREST
+### FIELDS OF INTEREST
 
 Economics of Migration, Labor Economics, Economics of Education, Applied Econometrics
 
-# WORKING PAPERS
+### WORKING PAPERS
 
 - 	Beine, M., Montes -Vinas, A., Zanaj., S.  "The solution of the immigrant paradox: aspirations and expectations of children of migrants". DEM Discussion Paper 26/2020. https://orbilu.uni.lu/handle/10993/45431 
 
@@ -34,12 +34,12 @@ WORK IN PROGRESS
 - Beine, M., Docquier, F., Montes -Vinas, A.,"Network Effect and Cultural Distance: Testing the Collier Hypothesis".
 
 
-# OTHER PUBLICATIONS
+### OTHER PUBLICATIONS
 -	Zapata, G., Sabogal, A. Montes, A.C., Rodríguez, G., Castillo, J. (2012) “Contrabando de Cigarrillos y Tributación en Colombia” (Cigarette Smuggling and Taxation in Colombia), Cuadernos de FEDESARROLLO,  ISBN: 978-958-57092-7-0, V.1, pags. 81. 
 
 -	Zapata, G., Sabogal, A. Montes, A.C., Rodríguez, G., Castillo, J. (2012) “Una estimación de la adulteración y la falsificación de bebidas alcohólicas en Colombia” (An Estimation of Alcoholic Beverages Counterfeiting in Colombia), FEDESARROLLO ISBN: 978-958-57092-6-3, pags. 103.
 
-# TEACHING EXPERIENCE
+### TEACHING EXPERIENCE
 
 -  Lecturer Probability and statistics, University of Luxembourg, Spring 2020               
 
@@ -51,7 +51,7 @@ WORK IN PROGRESS
 
 - T.A: Econometrics, Probability, and Mathematical Methods for Economists, U.Andes, 2009.
 
-# LANGUAGES AND SOFTWARE
+### LANGUAGES AND SOFTWARE
 
 Languages: Spanish (native), English (full professional proficiency), German (intermediate), French (Basic) 
 Software: Stata, R studio, Python, Microsoft Office, Bibtex. Latex.
