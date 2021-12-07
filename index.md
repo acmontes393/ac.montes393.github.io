@@ -3,22 +3,6 @@ Welcome!
 
 I have recently defended my Ph.D. thesis in Economics at the University of Luxembourg. During the Ph.D. program, I have investigated the determinants of international migration and the integration of migrant children. Before coming to Luxembourg, I obtained a Master’s degree in Public Policy from Hertie School in Berlin, and Bachelor and Master's degrees in Economics from Universidad de los Andes, in Colombia.
 
-### EDUCATION
-
-- PhD. Economics and Finance, University of Luxembourg, Luxembourg 2017 – Oct 2021	
-
-Thesis title: “Essay on the Economics of International Migration”
-
-Supervisor: Michel Beine
-
-- M.A. Public Policy, Hertie School of Governance, Berlin, Germany. 2014 – 2016	
-
-Thesis title: “Who you know matters to get a good career. Social capital and labor market outcomes among recent migrants in Germany”
-
-- MSc. Economics, Universidad de los Andes, Bogotá, Colombia. 2010 – 2014
-
-- B.A. Economics, Universidad de los Andes, Bogotá, Colombia. 2006– 2010
-
 ### FIELDS OF INTEREST
 
 Economics of Migration, Labor Economics, Economics of Education, Applied Econometrics
@@ -53,8 +37,20 @@ WORK IN PROGRESS
 
 - T.A: Econometrics, Probability, and Mathematical Methods for Economists, U.Andes, 2009.
 
-### LANGUAGES AND SOFTWARE
+### EDUCATION
 
-Languages: Spanish (native), English (full professional proficiency), German (intermediate), French (Basic) 
-Software: Stata, R studio, Python, Microsoft Office, Bibtex. Latex.
+- PhD. Economics and Finance, University of Luxembourg, Luxembourg 2017 – Oct 2021	
+
+Thesis title: “Essay on the Economics of International Migration”
+
+Supervisor: Michel Beine
+
+- M.A. Public Policy, Hertie School of Governance, Berlin, Germany. 2014 – 2016	
+
+Thesis title: “Who you know matters to get a good career. Social capital and labor market outcomes among recent migrants in Germany”
+
+- MSc. Economics, Universidad de los Andes, Bogotá, Colombia. 2010 – 2014
+
+- B.A. Economics, Universidad de los Andes, Bogotá, Colombia. 2006– 2010
+
 
