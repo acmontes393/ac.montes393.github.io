@@ -1,5 +1,7 @@
 # Ana Montes-Viñas
-Email: ana.montes@uni.lu
+Welcome!
+
+I have recently defended my Ph.D. thesis in Economics at the University of Luxembourg. During the Ph.D. program, I have investigated the determinants of international migration and the integration of migrant children. Before coming to Luxembourg, I obtained a Master’s degree in Public Policy from Hertie School in Berlin, and Bachelor and Master's degrees in Economics from Universidad de los Andes, in Colombia.
 
 ### EDUCATION
 
